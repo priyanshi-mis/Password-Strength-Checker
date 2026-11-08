@@ -31,7 +31,7 @@ python password_checker.py
 
 ## Project Preview
 
-![SecureCheck Screenshot](screenshot.png)
+(screenshot.png)
 
 ## Privacy
 
