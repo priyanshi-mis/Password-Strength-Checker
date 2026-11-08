@@ -29,10 +29,6 @@ SecureCheck is a Python-based desktop application that analyzes password strengt
 python password_checker.py
 ```
 
-## Project Preview
-
-(screenshot.png)
-
 ## Privacy
 
 Password analysis is performed locally. Passwords are not uploaded to an external server.
